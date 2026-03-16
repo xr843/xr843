@@ -4,7 +4,7 @@ Full-stack developer focused on **Buddhist digital humanities** — building ope
 
 ### Buddhist Digital Humanities
 
-- **[FoJin 佛津](https://github.com/xr843/fojin)** &nbsp; ![GitHub stars](https://img.shields.io/github/stars/xr843/fojin?style=flat-square) — The world's encyclopedic Buddhist digital text platform. 483 sources, 30 languages, full-text reading, AI Q&A, knowledge graph, parallel reader. FastAPI + React + Elasticsearch.
+- **[FoJin 佛津](https://github.com/xr843/fojin)** &nbsp; ![GitHub stars](https://img.shields.io/github/stars/xr843/fojin?style=flat-square&label=stars) — The world's encyclopedic Buddhist digital text platform. 483 sources, 30 languages, full-text reading, AI Q&A, knowledge graph, parallel reader. FastAPI + React + Elasticsearch.
 
 - **[Buddhist Text Punctuation](https://github.com/xr843/buddhist-text-punctuation)** &nbsp; ![GitHub stars](https://img.shields.io/github/stars/xr843/buddhist-text-punctuation?style=flat-square) — AI-powered punctuation and collation research platform. OCR, multi-version collation, phylogenetic analysis, CBETA integration. FastAPI + React.
 
