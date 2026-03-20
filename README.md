@@ -8,6 +8,16 @@ Full-stack developer focused on **Buddhist digital humanities** — building ope
 
 - **[Buddhist AI Translator](https://github.com/xr843/Buddhist-AI-Translator)** &nbsp; ![GitHub stars](https://img.shields.io/github/stars/xr843/Buddhist-AI-Translator?style=flat-square) — AI translation for Buddhist texts across Sanskrit, Pali, Tibetan, and Classical Chinese.
 
+### Open Source Contributions
+
+| Project | Stars | PR | Description |
+|---------|-------|----|-------------|
+| [Dify](https://github.com/langgenius/dify) | ![](https://img.shields.io/github/stars/langgenius/dify?style=flat-square&label=) | [#33769](https://github.com/langgenius/dify/pull/33769) | Fix model config popup z-index |
+| [Dify](https://github.com/langgenius/dify) | | [#33767](https://github.com/langgenius/dify/pull/33767) | Fix tool provider test constructors |
+| [LiteLLM](https://github.com/BerriAI/litellm) | ![](https://img.shields.io/github/stars/BerriAI/litellm?style=flat-square&label=) | [#24070](https://github.com/BerriAI/litellm/pull/24070) | Fix thinking blocks dropped when null |
+| [gstack](https://github.com/garrytan/gstack) | ![](https://img.shields.io/github/stars/garrytan/gstack?style=flat-square&label=) | [#128](https://github.com/garrytan/gstack/pull/128) | Fix duplicate commands & improve perf |
+| [Buddhist Uni](https://github.com/buddhist-uni/buddhist-uni.github.io) | ![](https://img.shields.io/github/stars/buddhist-uni/buddhist-uni.github.io?style=flat-square&label=) | [#637](https://github.com/buddhist-uni/buddhist-uni.github.io/pull/637) | Refactor search index architecture |
+
 ### Tech
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
