@@ -17,6 +17,7 @@ Full-stack developer focused on **Buddhist digital humanities** — building ope
 | [LiteLLM](https://github.com/BerriAI/litellm) | ![](https://img.shields.io/github/stars/BerriAI/litellm?style=flat-square&label=) | [#24070](https://github.com/BerriAI/litellm/pull/24070) | Fix thinking blocks dropped when null |
 | [gstack](https://github.com/garrytan/gstack) | ![](https://img.shields.io/github/stars/garrytan/gstack?style=flat-square&label=) | [#128](https://github.com/garrytan/gstack/pull/128) | Fix duplicate commands & improve perf |
 | [Buddhist Uni](https://github.com/buddhist-uni/buddhist-uni.github.io) | ![](https://img.shields.io/github/stars/buddhist-uni/buddhist-uni.github.io?style=flat-square&label=) | [#637](https://github.com/buddhist-uni/buddhist-uni.github.io/pull/637) | Refactor search index architecture |
+| [Buddhist Uni](https://github.com/buddhist-uni/buddhist-uni.github.io) | | [#634](https://github.com/buddhist-uni/buddhist-uni.github.io/pull/634) | Add help text to Archive.org borrowable links |
 
 ### Tech
 
