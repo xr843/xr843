@@ -41,6 +41,7 @@ Full-stack developer focused on **Buddhist digital humanities** and **AI securit
 | [LiteLLM](https://github.com/BerriAI/litellm) | | [#24346](https://github.com/BerriAI/litellm/pull/24346) | fix(security): fix prompt injection detection — async heuristics |
 | [Streamlit](https://github.com/streamlit/streamlit) | ![](https://img.shields.io/github/stars/streamlit/streamlit?style=flat-square&label=) | [#14450](https://github.com/streamlit/streamlit/pull/14450) | feat: show hex color indicators in inline code |
 | [FastChat](https://github.com/lm-sys/FastChat) | ![](https://img.shields.io/github/stars/lm-sys/FastChat?style=flat-square&label=) | [#3820](https://github.com/lm-sys/FastChat/pull/3820) | fix(security): sanitize HTML to prevent XSS injection |
+| [gstack](https://github.com/garrytan/gstack) | ![](https://img.shields.io/github/stars/garrytan/gstack?style=flat-square&label=) | [#167](https://github.com/garrytan/gstack/pull/167) | fix: validate navigation URLs to prevent SSRF |
 | [trailofbits/skills](https://github.com/trailofbits/skills) | ![](https://img.shields.io/github/stars/trailofbits/skills?style=flat-square&label=) | [#130](https://github.com/trailofbits/skills/pull/130) | docs(aflpp): add opinionated environment variables guide |
 <!-- CONTRIBUTIONS:END -->
 
