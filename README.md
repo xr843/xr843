@@ -18,15 +18,15 @@ Full-stack developer focused on **Buddhist digital humanities** and **AI securit
 
 | Project | Stars | PR | Description |
 |---------|-------|----|-------------|
+| [trailofbits/skills](https://github.com/trailofbits/skills) | ![](https://img.shields.io/github/stars/trailofbits/skills?style=flat-square&label=) | [#130](https://github.com/trailofbits/skills/pull/130) | docs(aflpp): add opinionated environment variables guide |
+| [buddhist-uni](https://github.com/buddhist-uni/buddhist-uni.github.io) | ![](https://img.shields.io/github/stars/buddhist-uni/buddhist-uni.github.io?style=flat-square&label=) | [#636](https://github.com/buddhist-uni/buddhist-uni.github.io/pull/636) | Added Node.js unit tests for core JavaScript utilities |
 | [Dify](https://github.com/langgenius/dify) | ![](https://img.shields.io/github/stars/langgenius/dify?style=flat-square&label=) | [#33769](https://github.com/langgenius/dify/pull/33769) | fix: remove legacy z-index overrides on model config popup |
 | [Dify](https://github.com/langgenius/dify) | | [#33767](https://github.com/langgenius/dify/pull/33767) | fix(tests): correct keyword arguments in tool provider test constructors |
-| [LiteLLM](https://github.com/BerriAI/litellm) | ![](https://img.shields.io/github/stars/BerriAI/litellm?style=flat-square&label=) | [#24070](https://github.com/BerriAI/litellm/pull/24070) | fix: thinking blocks dropped when thinking field is null |
-| [SurfSense](https://github.com/MODSetter/SurfSense) | ![](https://img.shields.io/github/stars/MODSetter/SurfSense?style=flat-square&label=) | [#886](https://github.com/MODSetter/SurfSense/pull/886) | fix: use asyncio.to_thread for embedding calls in search endpoints |
-| [gstack](https://github.com/garrytan/gstack) | ![](https://img.shields.io/github/stars/garrytan/gstack?style=flat-square&label=) | [#128](https://github.com/garrytan/gstack/pull/128) | fix: eliminate duplicate command sets in chain, improve flush perf |
 | [buddhist-uni](https://github.com/buddhist-uni/buddhist-uni.github.io) | ![](https://img.shields.io/github/stars/buddhist-uni/buddhist-uni.github.io?style=flat-square&label=) | [#637](https://github.com/buddhist-uni/buddhist-uni.github.io/pull/637) | Split search_index.js into pure JS logic and Liquid data template |
-| [buddhist-uni](https://github.com/buddhist-uni/buddhist-uni.github.io) | | [#636](https://github.com/buddhist-uni/buddhist-uni.github.io/pull/636) | Added Node.js unit tests for core JavaScript utilities |
+| [LiteLLM](https://github.com/BerriAI/litellm) | ![](https://img.shields.io/github/stars/BerriAI/litellm?style=flat-square&label=) | [#24070](https://github.com/BerriAI/litellm/pull/24070) | fix: thinking blocks dropped when thinking field is null |
+| [gstack](https://github.com/garrytan/gstack) | ![](https://img.shields.io/github/stars/garrytan/gstack?style=flat-square&label=) | [#128](https://github.com/garrytan/gstack/pull/128) | fix: eliminate duplicate command sets in chain, improve flush perf |
 | [buddhist-uni](https://github.com/buddhist-uni/buddhist-uni.github.io) | | [#634](https://github.com/buddhist-uni/buddhist-uni.github.io/pull/634) | Add help text to Archive.org borrowable links |
-| [trailofbits/skills](https://github.com/trailofbits/skills) | ![](https://img.shields.io/github/stars/trailofbits/skills?style=flat-square&label=) | [#130](https://github.com/trailofbits/skills/pull/130) | docs(aflpp): add opinionated environment variables guide |
+| [SurfSense](https://github.com/MODSetter/SurfSense) | ![](https://img.shields.io/github/stars/MODSetter/SurfSense?style=flat-square&label=) | [#886](https://github.com/MODSetter/SurfSense/pull/886) | fix: use asyncio.to_thread for embedding calls in search endpoints |
 
 **In Review**
 
