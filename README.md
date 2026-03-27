@@ -32,21 +32,21 @@ Full-stack developer focused on **Buddhist digital humanities** and **AI securit
 
 | Project | Stars | PR | Description |
 |---------|-------|----|-------------|
-| [Dify](https://github.com/langgenius/dify) | ![](https://img.shields.io/github/stars/langgenius/dify?style=flat-square&label=) | [#33986](https://github.com/langgenius/dify/pull/33986) | fix: constant-time API key comparison + prevent IDOR |
-| [MCP Servers](https://github.com/modelcontextprotocol/servers) | ![](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=flat-square&label=) | [#3663](https://github.com/modelcontextprotocol/servers/pull/3663) | fix(sqlite): prevent SQL injection in describe_table |
-| [vllm](https://github.com/vllm-project/vllm) | ![](https://img.shields.io/github/stars/vllm-project/vllm?style=flat-square&label=) | [#37939](https://github.com/vllm-project/vllm/pull/37939) | fix(security): replace eval() with safe math in tool examples |
-| [crewAI](https://github.com/crewAIInc/crewAI) | ![](https://img.shields.io/github/stars/crewAIInc/crewAI?style=flat-square&label=) | [#5005](https://github.com/crewAIInc/crewAI/pull/5005) | fix(security): prevent XXE attacks with defusedxml |
-| [LiteLLM](https://github.com/BerriAI/litellm) | ![](https://img.shields.io/github/stars/BerriAI/litellm?style=flat-square&label=) | [#24543](https://github.com/BerriAI/litellm/pull/24543) | fix(security): migrate PyPI publishing to Trusted Publishers (OIDC) |
-| [LiteLLM](https://github.com/BerriAI/litellm) | | [#24458](https://github.com/BerriAI/litellm/pull/24458) | fix(security): use Jinja2 SandboxedEnvironment to prevent SSTI |
-| [LiteLLM](https://github.com/BerriAI/litellm) | | [#24455](https://github.com/BerriAI/litellm/pull/24455) | fix(security): add AST validation for custom code exec() |
-| [LiteLLM](https://github.com/BerriAI/litellm) | | [#24346](https://github.com/BerriAI/litellm/pull/24346) | fix(security): fix prompt injection detection — async heuristics |
-| [Streamlit](https://github.com/streamlit/streamlit) | ![](https://img.shields.io/github/stars/streamlit/streamlit?style=flat-square&label=) | [#14450](https://github.com/streamlit/streamlit/pull/14450) | feat: show hex color indicators in inline code |
-| [FastChat](https://github.com/lm-sys/FastChat) | ![](https://img.shields.io/github/stars/lm-sys/FastChat?style=flat-square&label=) | [#3820](https://github.com/lm-sys/FastChat/pull/3820) | fix(security): sanitize HTML to prevent XSS injection |
-| [gstack](https://github.com/garrytan/gstack) | ![](https://img.shields.io/github/stars/garrytan/gstack?style=flat-square&label=) | [#167](https://github.com/garrytan/gstack/pull/167) | fix: validate navigation URLs to prevent SSRF |
 | [AutoGen](https://github.com/microsoft/autogen) | ![](https://img.shields.io/github/stars/microsoft/autogen?style=flat-square&label=) | [#7466](https://github.com/microsoft/autogen/pull/7466) | fix(security): sanitize page title to prevent prompt injection |
 | [AutoGen](https://github.com/microsoft/autogen) | | [#7467](https://github.com/microsoft/autogen/pull/7467) | fix(security): upgrade LocalCommandLineCodeExecutor warning |
 | [MCP python-sdk](https://github.com/modelcontextprotocol/python-sdk) | ![](https://img.shields.io/github/stars/modelcontextprotocol/python-sdk?style=flat-square&label=) | [#2351](https://github.com/modelcontextprotocol/python-sdk/pull/2351) | fix(security): remove shell=True to prevent command injection |
-| [crewAI](https://github.com/crewAIInc/crewAI) | | [#5104](https://github.com/crewAIInc/crewAI/pull/5104) | fix(security): replace eval() with safe parsing in template |
+| [crewAI](https://github.com/crewAIInc/crewAI) | ![](https://img.shields.io/github/stars/crewAIInc/crewAI?style=flat-square&label=) | [#5104](https://github.com/crewAIInc/crewAI/pull/5104) | fix(security): replace eval() with safe parsing in template |
+| [LiteLLM](https://github.com/BerriAI/litellm) | ![](https://img.shields.io/github/stars/BerriAI/litellm?style=flat-square&label=) | [#24543](https://github.com/BerriAI/litellm/pull/24543) | fix(security): migrate PyPI publishing to Trusted Publishers (OIDC) |
+| [Dify](https://github.com/langgenius/dify) | ![](https://img.shields.io/github/stars/langgenius/dify?style=flat-square&label=) | [#33986](https://github.com/langgenius/dify/pull/33986) | fix: constant-time API key comparison + prevent IDOR |
+| [vllm](https://github.com/vllm-project/vllm) | ![](https://img.shields.io/github/stars/vllm-project/vllm?style=flat-square&label=) | [#37939](https://github.com/vllm-project/vllm/pull/37939) | fix(security): replace eval() with safe math in tool examples |
+| [LiteLLM](https://github.com/BerriAI/litellm) | | [#24458](https://github.com/BerriAI/litellm/pull/24458) | fix(security): use Jinja2 SandboxedEnvironment to prevent SSTI |
+| [LiteLLM](https://github.com/BerriAI/litellm) | | [#24455](https://github.com/BerriAI/litellm/pull/24455) | fix(security): add AST validation for custom code exec() |
+| [LiteLLM](https://github.com/BerriAI/litellm) | | [#24346](https://github.com/BerriAI/litellm/pull/24346) | fix(security): fix prompt injection detection — async heuristics |
+| [crewAI](https://github.com/crewAIInc/crewAI) | ![](https://img.shields.io/github/stars/crewAIInc/crewAI?style=flat-square&label=) | [#5005](https://github.com/crewAIInc/crewAI/pull/5005) | fix(security): prevent XXE attacks with defusedxml |
+| [MCP Servers](https://github.com/modelcontextprotocol/servers) | ![](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=flat-square&label=) | [#3663](https://github.com/modelcontextprotocol/servers/pull/3663) | fix(sqlite): prevent SQL injection in describe_table |
+| [FastChat](https://github.com/lm-sys/FastChat) | ![](https://img.shields.io/github/stars/lm-sys/FastChat?style=flat-square&label=) | [#3820](https://github.com/lm-sys/FastChat/pull/3820) | fix(security): sanitize HTML to prevent XSS injection |
+| [Streamlit](https://github.com/streamlit/streamlit) | ![](https://img.shields.io/github/stars/streamlit/streamlit?style=flat-square&label=) | [#14450](https://github.com/streamlit/streamlit/pull/14450) | feat: show hex color indicators in inline code |
+| [gstack](https://github.com/garrytan/gstack) | ![](https://img.shields.io/github/stars/garrytan/gstack?style=flat-square&label=) | [#167](https://github.com/garrytan/gstack/pull/167) | fix: validate navigation URLs to prevent SSRF |
 <!-- CONTRIBUTIONS:END -->
 
 ### Tech
