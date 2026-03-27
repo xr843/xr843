@@ -26,6 +26,7 @@ Full-stack developer focused on **Buddhist digital humanities** and **AI securit
 | [buddhist-uni](https://github.com/buddhist-uni/buddhist-uni.github.io) | ![](https://img.shields.io/github/stars/buddhist-uni/buddhist-uni.github.io?style=flat-square&label=) | [#637](https://github.com/buddhist-uni/buddhist-uni.github.io/pull/637) | Split search_index.js into pure JS logic and Liquid data template |
 | [buddhist-uni](https://github.com/buddhist-uni/buddhist-uni.github.io) | | [#636](https://github.com/buddhist-uni/buddhist-uni.github.io/pull/636) | Added Node.js unit tests for core JavaScript utilities |
 | [buddhist-uni](https://github.com/buddhist-uni/buddhist-uni.github.io) | | [#634](https://github.com/buddhist-uni/buddhist-uni.github.io/pull/634) | Add help text to Archive.org borrowable links |
+| [trailofbits/skills](https://github.com/trailofbits/skills) | ![](https://img.shields.io/github/stars/trailofbits/skills?style=flat-square&label=) | [#130](https://github.com/trailofbits/skills/pull/130) | docs(aflpp): add opinionated environment variables guide |
 
 **In Review**
 
@@ -42,7 +43,10 @@ Full-stack developer focused on **Buddhist digital humanities** and **AI securit
 | [Streamlit](https://github.com/streamlit/streamlit) | ![](https://img.shields.io/github/stars/streamlit/streamlit?style=flat-square&label=) | [#14450](https://github.com/streamlit/streamlit/pull/14450) | feat: show hex color indicators in inline code |
 | [FastChat](https://github.com/lm-sys/FastChat) | ![](https://img.shields.io/github/stars/lm-sys/FastChat?style=flat-square&label=) | [#3820](https://github.com/lm-sys/FastChat/pull/3820) | fix(security): sanitize HTML to prevent XSS injection |
 | [gstack](https://github.com/garrytan/gstack) | ![](https://img.shields.io/github/stars/garrytan/gstack?style=flat-square&label=) | [#167](https://github.com/garrytan/gstack/pull/167) | fix: validate navigation URLs to prevent SSRF |
-| [trailofbits/skills](https://github.com/trailofbits/skills) | ![](https://img.shields.io/github/stars/trailofbits/skills?style=flat-square&label=) | [#130](https://github.com/trailofbits/skills/pull/130) | docs(aflpp): add opinionated environment variables guide |
+| [AutoGen](https://github.com/microsoft/autogen) | ![](https://img.shields.io/github/stars/microsoft/autogen?style=flat-square&label=) | [#7466](https://github.com/microsoft/autogen/pull/7466) | fix(security): sanitize page title to prevent prompt injection |
+| [AutoGen](https://github.com/microsoft/autogen) | | [#7467](https://github.com/microsoft/autogen/pull/7467) | fix(security): upgrade LocalCommandLineCodeExecutor warning |
+| [MCP python-sdk](https://github.com/modelcontextprotocol/python-sdk) | ![](https://img.shields.io/github/stars/modelcontextprotocol/python-sdk?style=flat-square&label=) | [#2351](https://github.com/modelcontextprotocol/python-sdk/pull/2351) | fix(security): remove shell=True to prevent command injection |
+| [crewAI](https://github.com/crewAIInc/crewAI) | | [#5104](https://github.com/crewAIInc/crewAI/pull/5104) | fix(security): replace eval() with safe parsing in template |
 <!-- CONTRIBUTIONS:END -->
 
 ### Tech
