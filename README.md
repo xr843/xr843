@@ -44,8 +44,6 @@ Full-stack developer focused on **Buddhist digital humanities** and **AI securit
 | [LiteLLM](https://github.com/BerriAI/litellm) | | [#24455](https://github.com/BerriAI/litellm/pull/24455) | fix(security): add AST validation for custom code exec() |
 | [LiteLLM](https://github.com/BerriAI/litellm) | | [#24346](https://github.com/BerriAI/litellm/pull/24346) | fix(security): fix prompt injection detection — async heuristics |
 | [Goose](https://github.com/block/goose) | ![](https://img.shields.io/github/stars/block/goose?style=flat-square&label=) | [#8182](https://github.com/block/goose/pull/8182) | fix: simplify donut chart schema for OpenAI compatibility |
-| [DSPy](https://github.com/stanfordnlp/dspy) | ![](https://img.shields.io/github/stars/stanfordnlp/dspy?style=flat-square&label=) | [#9543](https://github.com/stanfordnlp/dspy/pull/9543) | fix: detect reasoning support from response for unregistered models |
-| [DSPy](https://github.com/stanfordnlp/dspy) | | [#9542](https://github.com/stanfordnlp/dspy/pull/9542) | docs: add docstrings to Embedder.acall and Dataset base class |
 | [Pretext](https://github.com/chenglou/pretext) | ![](https://img.shields.io/github/stars/chenglou/pretext?style=flat-square&label=) | [#33](https://github.com/chenglou/pretext/pull/33) | fix: add CJK Extension H/I to isCJK |
 <!-- CONTRIBUTIONS:END -->
 
