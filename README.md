@@ -20,6 +20,7 @@ Full-stack developer focused on **Buddhist digital humanities** and **AI securit
 |---------|-------|----|-------------|
 | [Dify](https://github.com/langgenius/dify) | ![](https://img.shields.io/github/stars/langgenius/dify?style=flat-square&label=) | [#33769](https://github.com/langgenius/dify/pull/33769) | fix: remove legacy z-index overrides on model config popup |
 | [Dify](https://github.com/langgenius/dify) | | [#33767](https://github.com/langgenius/dify/pull/33767) | fix(tests): correct keyword arguments in tool provider test constructors |
+| [Dify](https://github.com/langgenius/dify) | | [#34379](https://github.com/langgenius/dify/pull/34379) | refactor: migrate service_api and inner_api to sessionmaker pattern |
 | [gstack](https://github.com/garrytan/gstack) | ![](https://img.shields.io/github/stars/garrytan/gstack?style=flat-square&label=) | [#128](https://github.com/garrytan/gstack/pull/128) | fix: eliminate duplicate command sets in chain, improve flush perf |
 | [Gradio](https://github.com/gradio-app/gradio) | ![](https://img.shields.io/github/stars/gradio-app/gradio?style=flat-square&label=) | [#13159](https://github.com/gradio-app/gradio/pull/13159) | fix: add Starlette 1.0 compatibility |
 | [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | ![](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=flat-square&label=) | [#13893](https://github.com/CherryHQ/cherry-studio/pull/13893) | fix(security): prevent XSS via dangerouslySetInnerHTML |
@@ -44,6 +45,10 @@ Full-stack developer focused on **Buddhist digital humanities** and **AI securit
 | [LiteLLM](https://github.com/BerriAI/litellm) | | [#24455](https://github.com/BerriAI/litellm/pull/24455) | fix(security): add AST validation for custom code exec() |
 | [LiteLLM](https://github.com/BerriAI/litellm) | | [#24346](https://github.com/BerriAI/litellm/pull/24346) | fix(security): fix prompt injection detection — async heuristics |
 | [Goose](https://github.com/block/goose) | ![](https://img.shields.io/github/stars/block/goose?style=flat-square&label=) | [#8182](https://github.com/block/goose/pull/8182) | fix: simplify donut chart schema for OpenAI compatibility |
+| [Dify](https://github.com/langgenius/dify) | | [#34381](https://github.com/langgenius/dify/pull/34381) | refactor: migrate core, models and tasks to sessionmaker pattern |
+| [Dify](https://github.com/langgenius/dify) | | [#34382](https://github.com/langgenius/dify/pull/34382) | refactor: migrate services layer to sessionmaker pattern |
+| [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | | [#13955](https://github.com/CherryHQ/cherry-studio/pull/13955) | feat: add notification alert when answer generation completes |
+| [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | | [#13956](https://github.com/CherryHQ/cherry-studio/pull/13956) | fix: preserve request headers on HTTP 3xx redirects |
 | [Pretext](https://github.com/chenglou/pretext) | ![](https://img.shields.io/github/stars/chenglou/pretext?style=flat-square&label=) | [#33](https://github.com/chenglou/pretext/pull/33) | fix: add CJK Extension H/I to isCJK |
 <!-- CONTRIBUTIONS:END -->
 
