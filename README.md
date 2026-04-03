@@ -45,12 +45,6 @@ Full-stack developer focused on **Buddhist digital humanities** and **AI securit
 | [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | ![](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=flat-square&label=) | [#13956](https://github.com/CherryHQ/cherry-studio/pull/13956) | fix: preserve request headers on HTTP 3xx redirects |
 | [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | | [#13955](https://github.com/CherryHQ/cherry-studio/pull/13955) | feat: add notification alert when answer generation completes |
 | [vllm](https://github.com/vllm-project/vllm) | ![](https://img.shields.io/github/stars/vllm-project/vllm?style=flat-square&label=) | [#37939](https://github.com/vllm-project/vllm/pull/37939) | fix(security): replace eval() with safe math in tool examples |
-| [LiteLLM](https://github.com/BerriAI/litellm) | ![](https://img.shields.io/github/stars/BerriAI/litellm?style=flat-square&label=) | [#24458](https://github.com/BerriAI/litellm/pull/24458) | fix(security): use Jinja2 SandboxedEnvironment to prevent SSTI |
-| [LiteLLM](https://github.com/BerriAI/litellm) | | [#24455](https://github.com/BerriAI/litellm/pull/24455) | fix(security): add AST validation for custom code exec() |
-| [LiteLLM](https://github.com/BerriAI/litellm) | | [#24346](https://github.com/BerriAI/litellm/pull/24346) | fix(security): fix prompt injection detection — async heuristics |
-| [Langflow](https://github.com/langflow-ai/langflow) | ![](https://img.shields.io/github/stars/langflow-ai/langflow?style=flat-square&label=) | [#12385](https://github.com/langflow-ai/langflow/pull/12385) | fix: require auth for user creation when AUTO_LOGIN is disabled |
-| [Langflow](https://github.com/langflow-ai/langflow) | | [#12384](https://github.com/langflow-ai/langflow/pull/12384) | fix: add ON DELETE CASCADE to span.trace_id foreign key |
-| [Goose](https://github.com/block/goose) | ![](https://img.shields.io/github/stars/block/goose?style=flat-square&label=) | [#8182](https://github.com/block/goose/pull/8182) | fix: simplify donut chart schema for OpenAI compatibility |
 | [Pretext](https://github.com/chenglou/pretext) | ![](https://img.shields.io/github/stars/chenglou/pretext?style=flat-square&label=) | [#33](https://github.com/chenglou/pretext/pull/33) | fix: add CJK Extension H/I to isCJK |
 <!-- CONTRIBUTIONS:END -->
 
