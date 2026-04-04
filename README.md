@@ -6,7 +6,7 @@ Full-stack developer focused on **Buddhist digital humanities** and **AI securit
 
 - **[FoJin 佛津](https://github.com/xr843/fojin)** &nbsp; ![GitHub stars](https://img.shields.io/github/stars/xr843/fojin?style=flat-square&color=blue) — The world's encyclopedic Buddhist digital text platform. 500+ sources, 30 languages, full-text reading, AI Q&A, knowledge graph, parallel reader. FastAPI + React + Elasticsearch.
 
-- **[Buddha-skill](https://github.com/xr843/buddha-skill)** &nbsp; ![GitHub stars](https://img.shields.io/github/stars/xr843/buddha-skill?style=flat-square) — Buddhist teacher AI skill generator powered by FoJin. Pre-built personas for Xuanzang, Kumārajīva, Yinguang, Ajahn Chah, and Tsongkhapa. AgentSkills standard.
+- **[Buddha-skill](https://github.com/xr843/Buddha-skill)** &nbsp; ![GitHub stars](https://img.shields.io/github/stars/xr843/Buddha-skill?style=flat-square) — Buddhist teacher AI skill generator powered by FoJin. Pre-built personas for Xuanzang, Kumārajīva, Yinguang, Ajahn Chah, and Tsongkhapa. AgentSkills standard.
 
 - **[llm-pgvector](https://github.com/xr843/llm-pgvector)** &nbsp; ![GitHub stars](https://img.shields.io/github/stars/xr843/llm-pgvector?style=flat-square) — PostgreSQL pgvector storage backend for [LLM](https://llm.datasette.io/). HNSW/IVFFlat indexes for sub-millisecond semantic search at scale. Born from [FoJin](https://fojin.app)'s 678K+ vector production workload.
 
