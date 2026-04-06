@@ -47,8 +47,6 @@ Full-stack developer focused on **Buddhist digital humanities** and **AI securit
 | [Dify](https://github.com/langgenius/dify) | | [#34382](https://github.com/langgenius/dify/pull/34382) | refactor: migrate services layer to sessionmaker pattern |
 | [Dify](https://github.com/langgenius/dify) | | [#34381](https://github.com/langgenius/dify/pull/34381) | refactor: migrate core, models and tasks to sessionmaker pattern |
 | [Dify](https://github.com/langgenius/dify) | | [#33986](https://github.com/langgenius/dify/pull/33986) | fix: constant-time API key comparison + prevent IDOR |
-| [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | ![](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=flat-square&label=) | [#13956](https://github.com/CherryHQ/cherry-studio/pull/13956) | fix: preserve request headers on HTTP 3xx redirects |
-| [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | | [#13955](https://github.com/CherryHQ/cherry-studio/pull/13955) | feat: add notification alert when answer generation completes |
 | [vllm](https://github.com/vllm-project/vllm) | ![](https://img.shields.io/github/stars/vllm-project/vllm?style=flat-square&label=) | [#37939](https://github.com/vllm-project/vllm/pull/37939) | fix(security): replace eval() with safe math in tool examples |
 <!-- CONTRIBUTIONS:END -->
 
