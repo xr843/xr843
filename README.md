@@ -30,6 +30,7 @@ Full-stack developer focused on **Buddhist digital humanities** and **AI securit
 | [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | ![](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=flat-square&label=) | [#13892](https://github.com/CherryHQ/cherry-studio/pull/13892) | fix(security): validate URLs in shell.openExternal |
 | [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | | [#13893](https://github.com/CherryHQ/cherry-studio/pull/13893) | fix(security): prevent XSS via dangerouslySetInnerHTML |
 | [Gradio](https://github.com/gradio-app/gradio) | ![](https://img.shields.io/github/stars/gradio-app/gradio?style=flat-square&label=) | [#13182](https://github.com/gradio-app/gradio/pull/13182) | fix: make example field optional in gradio cc build |
+| [Gradio](https://github.com/gradio-app/gradio) | | [#13204](https://github.com/gradio-app/gradio/pull/13204) | fix: preserve special characters in uploaded filenames |
 | [Gradio](https://github.com/gradio-app/gradio) | | [#13159](https://github.com/gradio-app/gradio/pull/13159) | fix: add Starlette 1.0 compatibility |
 | [LiteLLM](https://github.com/BerriAI/litellm) | ![](https://img.shields.io/github/stars/BerriAI/litellm?style=flat-square&label=) | [#24070](https://github.com/BerriAI/litellm/pull/24070) | fix: thinking blocks dropped when thinking field is null |
 | [Haystack](https://github.com/deepset-ai/haystack) | ![](https://img.shields.io/github/stars/deepset-ai/haystack?style=flat-square&label=) | [#10969](https://github.com/deepset-ai/haystack/pull/10969) | docs: add AzureDocumentIntelligenceConverter documentation |
@@ -47,7 +48,6 @@ Full-stack developer focused on **Buddhist digital humanities** and **AI securit
 | [vllm](https://github.com/vllm-project/vllm) | ![](https://img.shields.io/github/stars/vllm-project/vllm?style=flat-square&label=) | [#37939](https://github.com/vllm-project/vllm/pull/37939) | fix(security): replace eval() with safe math in tool examples |
 | [crewAI](https://github.com/crewAIInc/crewAI) | ![](https://img.shields.io/github/stars/crewAIInc/crewAI?style=flat-square&label=) | [#5307](https://github.com/crewAIInc/crewAI/pull/5307) | fix(security): replace eval() with safe AST evaluator in calculator template |
 | [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | ![](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=flat-square&label=) | [#14083](https://github.com/CherryHQ/cherry-studio/pull/14083) | fix: clean up OAuth tokens when deleting MCP server |
-| [Gradio](https://github.com/gradio-app/gradio) | ![](https://img.shields.io/github/stars/gradio-app/gradio?style=flat-square&label=) | [#13204](https://github.com/gradio-app/gradio/pull/13204) | fix: preserve special characters in uploaded filenames |
 <!-- CONTRIBUTIONS:END -->
 
 ### Tech
