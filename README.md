@@ -49,6 +49,7 @@ Full-stack developer focused on **Buddhist digital humanities** and **AI securit
 | [SurfSense](https://github.com/MODSetter/SurfSense) | | [#1230](https://github.com/MODSetter/SurfSense/pull/1230) | fix(web): memoize Zero provider opts to prevent reconnect churn |
 | [SurfSense](https://github.com/MODSetter/SurfSense) | | [#1231](https://github.com/MODSetter/SurfSense/pull/1231) | refactor(web): extract citation TYPE_ICONS into a shared module |
 | [SurfSense](https://github.com/MODSetter/SurfSense) | | [#1232](https://github.com/MODSetter/SurfSense/pull/1232) | fix(web): clear announcement stagger timers on unmount |
+| [LiteLLM](https://github.com/BerriAI/litellm) | ![](https://img.shields.io/github/stars/BerriAI/litellm?style=flat-square&label=) | [#25777](https://github.com/BerriAI/litellm/pull/25777) | fix(utils): allowed_openai_params must not forward unset params as None |
 | [crewAI](https://github.com/crewAIInc/crewAI) | ![](https://img.shields.io/github/stars/crewAIInc/crewAI?style=flat-square&label=) | [#5307](https://github.com/crewAIInc/crewAI/pull/5307) | fix(security): replace eval() with safe AST evaluator in calculator template |
 | [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | ![](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=flat-square&label=) | [#14083](https://github.com/CherryHQ/cherry-studio/pull/14083) | fix: clean up OAuth tokens when deleting MCP server |
 <!-- CONTRIBUTIONS:END -->
