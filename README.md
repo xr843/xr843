@@ -41,11 +41,14 @@ Full-stack developer focused on **Buddhist digital humanities** and **AI securit
 
 | Project | Stars | PR | Description |
 |---------|-------|----|-------------|
-| [Dify](https://github.com/langgenius/dify) | ![](https://img.shields.io/github/stars/langgenius/dify?style=flat-square&label=) | [#34560](https://github.com/langgenius/dify/pull/34560) | fix(types): widen ToolProviderApiEntity icon to include EmojiIconDict |
-| [Dify](https://github.com/langgenius/dify) | | [#34382](https://github.com/langgenius/dify/pull/34382) | refactor: migrate services layer to sessionmaker pattern |
+| [Dify](https://github.com/langgenius/dify) | ![](https://img.shields.io/github/stars/langgenius/dify?style=flat-square&label=) | [#35267](https://github.com/langgenius/dify/pull/35267) | test(types): replace Account/Tenant status string literals with enum values |
+| [Dify](https://github.com/langgenius/dify) | | [#34560](https://github.com/langgenius/dify/pull/34560) | fix(types): widen ToolProviderApiEntity icon to include EmojiIconDict |
 | [Dify](https://github.com/langgenius/dify) | | [#34381](https://github.com/langgenius/dify/pull/34381) | refactor: migrate core, models and tasks to sessionmaker pattern |
 | [Dify](https://github.com/langgenius/dify) | | [#33986](https://github.com/langgenius/dify/pull/33986) | fix: constant-time API key comparison + prevent IDOR |
-| [vllm](https://github.com/vllm-project/vllm) | ![](https://img.shields.io/github/stars/vllm-project/vllm?style=flat-square&label=) | [#37939](https://github.com/vllm-project/vllm/pull/37939) | fix(security): replace eval() with safe math in tool examples |
+| [SurfSense](https://github.com/MODSetter/SurfSense) | ![](https://img.shields.io/github/stars/MODSetter/SurfSense?style=flat-square&label=) | [#1229](https://github.com/MODSetter/SurfSense/pull/1229) | fix(web): drop react-dom/server from inline-mention-editor bundle |
+| [SurfSense](https://github.com/MODSetter/SurfSense) | | [#1230](https://github.com/MODSetter/SurfSense/pull/1230) | fix(web): memoize Zero provider opts to prevent reconnect churn |
+| [SurfSense](https://github.com/MODSetter/SurfSense) | | [#1231](https://github.com/MODSetter/SurfSense/pull/1231) | refactor(web): extract citation TYPE_ICONS into a shared module |
+| [SurfSense](https://github.com/MODSetter/SurfSense) | | [#1232](https://github.com/MODSetter/SurfSense/pull/1232) | fix(web): clear announcement stagger timers on unmount |
 | [crewAI](https://github.com/crewAIInc/crewAI) | ![](https://img.shields.io/github/stars/crewAIInc/crewAI?style=flat-square&label=) | [#5307](https://github.com/crewAIInc/crewAI/pull/5307) | fix(security): replace eval() with safe AST evaluator in calculator template |
 | [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | ![](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=flat-square&label=) | [#14083](https://github.com/CherryHQ/cherry-studio/pull/14083) | fix: clean up OAuth tokens when deleting MCP server |
 <!-- CONTRIBUTIONS:END -->
