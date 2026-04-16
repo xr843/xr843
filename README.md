@@ -22,7 +22,8 @@ Full-stack developer focused on **Buddhist digital humanities** and **AI securit
 
 | Project | Stars | PR | Description |
 |---------|-------|----|-------------|
-| [Dify](https://github.com/langgenius/dify) | ![](https://img.shields.io/github/stars/langgenius/dify?style=flat-square&label=) | [#34456](https://github.com/langgenius/dify/pull/34456) | fix(security): add tenant_id validation to prevent IDOR |
+| [Dify](https://github.com/langgenius/dify) | ![](https://img.shields.io/github/stars/langgenius/dify?style=flat-square&label=) | [#35267](https://github.com/langgenius/dify/pull/35267) | test(types): replace Account/Tenant status string literals with enum values |
+| [Dify](https://github.com/langgenius/dify) | | [#34456](https://github.com/langgenius/dify/pull/34456) | fix(security): add tenant_id validation to prevent IDOR |
 | [Dify](https://github.com/langgenius/dify) | | [#34379](https://github.com/langgenius/dify/pull/34379) | refactor: migrate service_api and inner_api to sessionmaker pattern |
 | [Dify](https://github.com/langgenius/dify) | | [#33769](https://github.com/langgenius/dify/pull/33769) | fix: remove legacy z-index overrides on model config popup |
 | [Dify](https://github.com/langgenius/dify) | | [#33767](https://github.com/langgenius/dify/pull/33767) | fix(tests): correct keyword arguments in tool provider test constructors |
@@ -34,21 +35,19 @@ Full-stack developer focused on **Buddhist digital humanities** and **AI securit
 | [Gradio](https://github.com/gradio-app/gradio) | | [#13159](https://github.com/gradio-app/gradio/pull/13159) | fix: add Starlette 1.0 compatibility |
 | [LiteLLM](https://github.com/BerriAI/litellm) | ![](https://img.shields.io/github/stars/BerriAI/litellm?style=flat-square&label=) | [#24070](https://github.com/BerriAI/litellm/pull/24070) | fix: thinking blocks dropped when thinking field is null |
 | [Haystack](https://github.com/deepset-ai/haystack) | ![](https://img.shields.io/github/stars/deepset-ai/haystack?style=flat-square&label=) | [#10969](https://github.com/deepset-ai/haystack/pull/10969) | docs: add AzureDocumentIntelligenceConverter documentation |
-| [SurfSense](https://github.com/MODSetter/SurfSense) | ![](https://img.shields.io/github/stars/MODSetter/SurfSense?style=flat-square&label=) | [#886](https://github.com/MODSetter/SurfSense/pull/886) | fix: use asyncio.to_thread for embedding calls in search endpoints |
+| [SurfSense](https://github.com/MODSetter/SurfSense) | ![](https://img.shields.io/github/stars/MODSetter/SurfSense?style=flat-square&label=) | [#1232](https://github.com/MODSetter/SurfSense/pull/1232) | fix(web): clear announcement stagger timers on unmount |
+| [SurfSense](https://github.com/MODSetter/SurfSense) | | [#1230](https://github.com/MODSetter/SurfSense/pull/1230) | fix(web): memoize Zero provider opts to prevent reconnect churn |
+| [SurfSense](https://github.com/MODSetter/SurfSense) | | [#1229](https://github.com/MODSetter/SurfSense/pull/1229) | fix(web): drop react-dom/server from inline-mention-editor bundle |
+| [SurfSense](https://github.com/MODSetter/SurfSense) | | [#886](https://github.com/MODSetter/SurfSense/pull/886) | fix: use asyncio.to_thread for embedding calls in search endpoints |
 | [trailofbits/skills](https://github.com/trailofbits/skills) | ![](https://img.shields.io/github/stars/trailofbits/skills?style=flat-square&label=) | [#130](https://github.com/trailofbits/skills/pull/130) | docs(aflpp): add opinionated environment variables guide |
 
 **In Review**
 
 | Project | Stars | PR | Description |
 |---------|-------|----|-------------|
-| [Dify](https://github.com/langgenius/dify) | ![](https://img.shields.io/github/stars/langgenius/dify?style=flat-square&label=) | [#35267](https://github.com/langgenius/dify/pull/35267) | test(types): replace Account/Tenant status string literals with enum values |
-| [Dify](https://github.com/langgenius/dify) | | [#34560](https://github.com/langgenius/dify/pull/34560) | fix(types): widen ToolProviderApiEntity icon to include EmojiIconDict |
+| [Dify](https://github.com/langgenius/dify) | ![](https://img.shields.io/github/stars/langgenius/dify?style=flat-square&label=) | [#34560](https://github.com/langgenius/dify/pull/34560) | fix(types): widen ToolProviderApiEntity icon to include EmojiIconDict |
 | [Dify](https://github.com/langgenius/dify) | | [#34381](https://github.com/langgenius/dify/pull/34381) | refactor: migrate core, models and tasks to sessionmaker pattern |
 | [Dify](https://github.com/langgenius/dify) | | [#33986](https://github.com/langgenius/dify/pull/33986) | fix: constant-time API key comparison + prevent IDOR |
-| [SurfSense](https://github.com/MODSetter/SurfSense) | ![](https://img.shields.io/github/stars/MODSetter/SurfSense?style=flat-square&label=) | [#1229](https://github.com/MODSetter/SurfSense/pull/1229) | fix(web): drop react-dom/server from inline-mention-editor bundle |
-| [SurfSense](https://github.com/MODSetter/SurfSense) | | [#1230](https://github.com/MODSetter/SurfSense/pull/1230) | fix(web): memoize Zero provider opts to prevent reconnect churn |
-| [SurfSense](https://github.com/MODSetter/SurfSense) | | [#1231](https://github.com/MODSetter/SurfSense/pull/1231) | refactor(web): extract citation TYPE_ICONS into a shared module |
-| [SurfSense](https://github.com/MODSetter/SurfSense) | | [#1232](https://github.com/MODSetter/SurfSense/pull/1232) | fix(web): clear announcement stagger timers on unmount |
 | [LiteLLM](https://github.com/BerriAI/litellm) | ![](https://img.shields.io/github/stars/BerriAI/litellm?style=flat-square&label=) | [#25777](https://github.com/BerriAI/litellm/pull/25777) | fix(utils): allowed_openai_params must not forward unset params as None |
 | [crewAI](https://github.com/crewAIInc/crewAI) | ![](https://img.shields.io/github/stars/crewAIInc/crewAI?style=flat-square&label=) | [#5307](https://github.com/crewAIInc/crewAI/pull/5307) | fix(security): replace eval() with safe AST evaluator in calculator template |
 | [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | ![](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=flat-square&label=) | [#14083](https://github.com/CherryHQ/cherry-studio/pull/14083) | fix: clean up OAuth tokens when deleting MCP server |
