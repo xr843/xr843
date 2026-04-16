@@ -26,6 +26,14 @@ GITHUB_USER = "xr843"
 # Matched by owner prefix, so new personal repos auto-excluded without edit.
 OWN_REPO_OWNER = "xr843"
 
+# Repos whose names start with "awesome-" are treated as curated-list
+# promotional submissions (adding xr843's own projects — FoJin, Master-skill —
+# to someone else's list). Those PRs advertise rather than contribute, so
+# they don't belong on the profile "Open Source Contributions" table.
+# If a genuinely-contributed-to repo ever happens to be named "awesome-*",
+# add its owner/name to AWESOME_ALLOWLIST below.
+AWESOME_ALLOWLIST: set[str] = set()
+
 # Human-readable names for repos whose slug doesn't match their displayed name.
 # Add entries here when a new project with a stylized name is contributed to.
 DISPLAY_NAMES = {
@@ -136,6 +144,8 @@ def fetch_prs(state: str, token: str) -> list[dict]:
             repo_full = "/".join(repo_url.split("/")[-2:])
             org, repo = repo_full.split("/", 1)
             if org == OWN_REPO_OWNER:
+                continue
+            if repo.lower().startswith("awesome-") and repo_full not in AWESOME_ALLOWLIST:
                 continue
             prs.append({
                 "org": org,
