@@ -24,7 +24,6 @@ Full-stack developer focused on **Buddhist digital humanities** and **AI securit
 | ✅ | [Dify](https://github.com/langgenius/dify) |  | [#34456](https://github.com/langgenius/dify/pull/34456) | fix(security): add tenant_id validation to prevent IDOR in data sourc... |
 | ⏳ | [Dify](https://github.com/langgenius/dify) |  | [#34381](https://github.com/langgenius/dify/pull/34381) | refactor: migrate core, models, tasks, events and schedule to session... |
 | ✅ | [Dify](https://github.com/langgenius/dify) |  | [#34379](https://github.com/langgenius/dify/pull/34379) | refactor: migrate service_api and inner_api to sessionmaker pattern |
-| ⏳ | [Dify](https://github.com/langgenius/dify) |  | [#33986](https://github.com/langgenius/dify/pull/33986) | fix: use constant-time comparison for API key validation |
 | ✅ | [Dify](https://github.com/langgenius/dify) |  | [#33769](https://github.com/langgenius/dify/pull/33769) | fix: remove legacy z-index overrides on model config popup |
 | ✅ | [Dify](https://github.com/langgenius/dify) |  | [#33767](https://github.com/langgenius/dify/pull/33767) | fix(tests): correct keyword arguments in tool provider test constructors |
 | ⏳ | [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | ![](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=flat-square&label=) | [#14083](https://github.com/CherryHQ/cherry-studio/pull/14083) | fix: clean up OAuth tokens when deleting MCP server |
