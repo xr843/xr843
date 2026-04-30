@@ -19,7 +19,8 @@ Full-stack developer focused on **Buddhist digital humanities** and **AI securit
 <!-- CONTRIBUTIONS:START -->
 | Status | Project | Stars | PR | Description |
 |--------|---------|-------|----|-------------|
-| ✅ | [Dify](https://github.com/langgenius/dify) | ![](https://img.shields.io/github/stars/langgenius/dify?style=flat-square&label=) | [#35267](https://github.com/langgenius/dify/pull/35267) | test(types): replace Account/Tenant status string literals with enum ... |
+| ✅ | [Dify](https://github.com/langgenius/dify) | ![](https://img.shields.io/github/stars/langgenius/dify?style=flat-square&label=) | [#35726](https://github.com/langgenius/dify/pull/35726) | fix(plugin): preserve multi-value HTTP response headers |
+| ✅ | [Dify](https://github.com/langgenius/dify) |  | [#35267](https://github.com/langgenius/dify/pull/35267) | test(types): replace Account/Tenant status string literals with enum ... |
 | ⏳ | [Dify](https://github.com/langgenius/dify) |  | [#34560](https://github.com/langgenius/dify/pull/34560) | fix(types): widen ToolProviderApiEntity icon to include EmojiIconDict |
 | ✅ | [Dify](https://github.com/langgenius/dify) |  | [#34456](https://github.com/langgenius/dify/pull/34456) | fix(security): add tenant_id validation to prevent IDOR in data sourc... |
 | ⏳ | [Dify](https://github.com/langgenius/dify) |  | [#34381](https://github.com/langgenius/dify/pull/34381) | refactor: migrate core, models, tasks, events and schedule to session... |
@@ -32,7 +33,10 @@ Full-stack developer focused on **Buddhist digital humanities** and **AI securit
 | ✅ | [Gradio](https://github.com/gradio-app/gradio) | ![](https://img.shields.io/github/stars/gradio-app/gradio?style=flat-square&label=) | [#13204](https://github.com/gradio-app/gradio/pull/13204) | fix: preserve special characters in uploaded filenames |
 | ✅ | [Gradio](https://github.com/gradio-app/gradio) |  | [#13182](https://github.com/gradio-app/gradio/pull/13182) | fix: make example field optional in cc build |
 | ✅ | [Gradio](https://github.com/gradio-app/gradio) |  | [#13159](https://github.com/gradio-app/gradio/pull/13159) | fix: add Starlette 1.0 compatibility |
-| ✅ | [LiteLLM](https://github.com/BerriAI/litellm) | ![](https://img.shields.io/github/stars/BerriAI/litellm?style=flat-square&label=) | [#25777](https://github.com/BerriAI/litellm/pull/25777) | fix(utils): allowed_openai_params must not forward unset params as None |
+| ⏳ | [LiteLLM](https://github.com/BerriAI/litellm) | ![](https://img.shields.io/github/stars/BerriAI/litellm?style=flat-square&label=) | [#26868](https://github.com/BerriAI/litellm/pull/26868) | fix(embedding): respect drop_params for unsupported dimensions parameter |
+| ⏳ | [LiteLLM](https://github.com/BerriAI/litellm) |  | [#26867](https://github.com/BerriAI/litellm/pull/26867) | fix(proxy): coerce numeric budget settings from env var to float |
+| ⏳ | [LiteLLM](https://github.com/BerriAI/litellm) |  | [#26865](https://github.com/BerriAI/litellm/pull/26865) | fix(cost): add gpt-image-2 pricing and routing |
+| ✅ | [LiteLLM](https://github.com/BerriAI/litellm) |  | [#25777](https://github.com/BerriAI/litellm/pull/25777) | fix(utils): allowed_openai_params must not forward unset params as None |
 | ✅ | [LiteLLM](https://github.com/BerriAI/litellm) |  | [#24070](https://github.com/BerriAI/litellm/pull/24070) | Fix thinking blocks dropped when thinking field is null |
 | ✅ | [SurfSense](https://github.com/MODSetter/SurfSense) | ![](https://img.shields.io/github/stars/MODSetter/SurfSense?style=flat-square&label=) | [#1238](https://github.com/MODSetter/SurfSense/pull/1238) | feat: add maxLength constraints to auth and settings form inputs |
 | ✅ | [SurfSense](https://github.com/MODSetter/SurfSense) |  | [#1237](https://github.com/MODSetter/SurfSense/pull/1237) | fix(a11y): remove nested <main> landmarks under (home) layout |
