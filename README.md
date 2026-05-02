@@ -8,6 +8,8 @@ Full-stack developer focused on **Buddhist digital humanities** and **AI securit
 
 - **[Master-skill](https://github.com/xr843/Master-skill)** &nbsp; ![GitHub stars](https://img.shields.io/github/stars/xr843/Master-skill?style=flat-square) — Chinese Buddhist master AI skill generator powered by FoJin. 8 pre-built masters across Chan, Tiantai, Huayan, Pure Land, Yogācāra, Mādhyamaka, and cross-tradition. AgentSkills standard.
 
+- **[Buddhist-Text-Collation](https://github.com/xr843/Buddhist-Text-Collation)** &nbsp; ![GitHub stars](https://img.shields.io/github/stars/xr843/Buddhist-Text-Collation?style=flat-square) — Open-source workbench for collating Buddhist canonical texts: punctuation diff, multi-edition collation (up to 31 witnesses), commentary parallel reading, and version-lineage analysis. CBETA / DILA integrated. FastAPI + React + TypeScript.
+
 - **[llm-pgvector](https://github.com/xr843/llm-pgvector)** &nbsp; ![GitHub stars](https://img.shields.io/github/stars/xr843/llm-pgvector?style=flat-square) — PostgreSQL pgvector storage backend for [LLM](https://llm.datasette.io/). HNSW/IVFFlat indexes for sub-millisecond semantic search at scale. Born from [FoJin](https://fojin.app)'s 678K+ vector production workload.
 
 - **[llm-seclint](https://github.com/xr843/llm-seclint)** &nbsp; ![GitHub stars](https://img.shields.io/github/stars/xr843/llm-seclint?style=flat-square) — Static security linter for LLM-powered applications. The Bandit for the AI era.
