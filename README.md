@@ -2,20 +2,6 @@
 
 Full-stack developer focused on **Buddhist digital humanities** and **AI security** — building open-source tools that make ancient texts accessible to modern researchers, and securing LLM applications.
 
-### What I'm building
-
-**佛典数字人文 / Buddhist Digital Humanities** —— a connected stack:
-[**FoJin 佛津**](https://github.com/xr843/fojin) is the data backbone (500+ sources, 30 languages, full-text + AI Q&A + knowledge graph).
-[**Master-skill**](https://github.com/xr843/Master-skill) turns it into conversational AI patriarchs — 8 pre-built masters across Chan / Tiantai / Huayan / Pure Land / Yogācāra / Mādhyamaka.
-[**Buddhist-Text-Collation**](https://github.com/xr843/Buddhist-Text-Collation) is the scholarly workbench: punctuation diff, multi-edition collation (up to 31 witnesses), commentary parallel reading, version-lineage analysis.
-[**Buddhist AI Translator**](https://github.com/xr843/Buddhist-AI-Translator) handles Sanskrit / Pali / Tibetan / Classical Chinese.
-
-**LLM 应用安全 / LLM AppSec** —— two tools forged in production:
-[**llm-seclint**](https://github.com/xr843/llm-seclint) is the Bandit for LLM-powered apps (static security linter).
-[**llm-pgvector**](https://github.com/xr843/llm-pgvector) is a pgvector storage backend with HNSW/IVFFlat — born from [FoJin](https://fojin.app)'s 678K+ vector production workload.
-
-> ⭐ Stars / language / activity for each repo: see the **Pinned** cards above.
-
 ### Open Source Contributions
 
 <!-- CONTRIBUTIONS:START -->
